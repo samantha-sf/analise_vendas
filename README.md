@@ -5,8 +5,8 @@ Desenvolvido no Google Colab.
 Projeto desenvolvido durante as aulas de Data Visualization na Alura.
 
 ## Hard-skils:
--Data Visualization;
--Análise e limpeza de dados;
+- Data Visualization;
+- Análise e limpeza de dados;
 
 ## Tecnologias e ferramentas:
 - Pandas;
