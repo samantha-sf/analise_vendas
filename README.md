@@ -11,5 +11,6 @@ Projeto desenvolvido durante as aulas de Data Visualization na Alura.
 ## Tecnologias e ferramentas:
 - Pandas;
 - Matplotlib.pyplot;
+- Seaborn;
 - Python;
 - Jupyther notebook;
